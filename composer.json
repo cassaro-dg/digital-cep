@@ -1,0 +1,23 @@
+{
+    "name": "lucas-cassaro/digital-cep",
+    "description": "Busca CEP Online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "LucasCassaro\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Cassaro",
+            "email": "lucasluhcassaro@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
